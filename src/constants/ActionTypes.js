@@ -1,0 +1,7 @@
+export const ADD_FRIEND = 'ADD_FRIEND';
+export const STAR_FRIEND = 'STAR_FRIEND';
+export const DELETE_FRIEND = 'DELETE_FRIEND';
+
+export const ADD_CONTACTS = 'ADD_CONTACTS';
+export const DELETE_CONTACTS = 'DELETE_CONTACTS';
+export const GET_ALL_CONTACTS = 'GET_ALL_CONTACTS';
